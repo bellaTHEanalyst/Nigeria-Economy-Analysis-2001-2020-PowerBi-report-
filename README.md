@@ -110,7 +110,7 @@ I created a multiple-line chart to show trade, agriculture forestry, and fishing
  ## conclusion
  view the interactive report below
  
-- [powerBi interactive report](https://app.powerbi.com/view?r=eyJrIjoiYzRlZGYwYTktYzcxOC00NmVjLThlZjQtNTdhMjgzOGVmMDcwIiwidCI6ImI5NGE1YmE0LTUwZTQtNGQ5YS04O)
+- [powerBi interactive report](https://app.powerbi.com/view?r=eyJrIjoiYzRlZGYwYTktYzcxOC00NmVjLThlZjQtNTdhMjgzOGVmMDcwIiwidCI6ImI5NGE1YmE0LTUwZTQtNGQ5YS04OWU1LTRlMDAzMzY2MDUwZiIsImMiOjF9&embedImagePlaceholder=true)
 
 
 
