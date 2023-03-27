@@ -84,7 +84,32 @@ both Gross domestic product (GDP) and Gross national income dropped in 2009.
 
 ## Analysis 4
 
-![]()
+![](https://github.com/bellaTHEanalyst/Nigeria-Economy-Analysis-2001-2020-PowerBi-report-/blob/main/Nigeria%20aconomy%20viz%205.jpg)
+
+The points in the scatter plots can be seen rising while moving from left to right, with all points scattered and we see a weak positive correlation here. Export is positively correlated with import. for a few cases of outliers were observed
+
+## Analysis 5
+
+Gross Domestic Saving consists of savings from the household sector, private corporate sector, and public sector. 
+
+Trade is  the act or an instance of buying and selling goods and services either on the domestic (wholesale and retail) markets or on the international (import, export, and entrepôt) markets.
+
+The Agriculture, Forestry, and Fishing sector comprises establishments primarily engaged in growing crops, raising animals, harvesting timber, and harvesting fish and other animals on a farm, ranch, or from their natural habitats.
+
+![](https://github.com/bellaTHEanalyst/Nigeria-Economy-Analysis-2001-2020-PowerBi-report-/blob/main/Nigeria%20Economy%20viz%20actual%205.jpg)
+
+I created a multiple-line chart to show trade, agriculture forestry, and fishing sector and the gross domestic savings by year. 
+
+ - Trade was highest in 2011 and lowest in 2020.
+ 
+- Gross domestic savings was highest in 2006 and lowest in 2016.
+
+- The agriculture forestry and fishing sector was highest in 2002 and lowest in 2014.
+ 
+
+
+
+
 
 
 
