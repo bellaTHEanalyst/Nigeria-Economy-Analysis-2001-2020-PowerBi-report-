@@ -106,7 +106,11 @@ I created a multiple-line chart to show trade, agriculture forestry, and fishing
 
 - The agriculture forestry and fishing sector was highest in 2002 and lowest in 2014.
  
-
+ 
+ ## conclusion
+ view the interactive report below
+ 
+- [powerBi interactive report](https://app.powerbi.com/view?r=eyJrIjoiYzRlZGYwYTktYzcxOC00NmVjLThlZjQtNTdhMjgzOGVmMDcwIiwidCI6ImI5NGE1YmE0LTUwZTQtNGQ5YS04O)
 
 
 
